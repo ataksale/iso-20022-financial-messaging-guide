@@ -46,5 +46,6 @@ This repository aims to help architects, testers, business analysts, developers,
 | Governance           |
 | Future Trends        |
 
-Author
+## Author
+
 Ananta Taksale - IT Professional with experience in QA, Business Analysis, AI, Card and Payment domain
